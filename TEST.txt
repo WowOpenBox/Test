@@ -2,3 +2,4 @@ Just a test for
 https://github.community/t/bug-commit-since-release-doesnt-use-default-branch-master-hardcoded/155923
 
 second commit
+another commit
